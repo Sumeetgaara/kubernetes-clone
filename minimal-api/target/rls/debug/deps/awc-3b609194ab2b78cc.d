@@ -1,0 +1,14 @@
+c:\Users\sumba\OneDrive\Documents\Rust Projects\minimal-api\target\rls\debug\deps\awc-3b609194ab2b78cc.rmeta: C:\Users\sumba\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-2.0.3\src/lib.rs C:\Users\sumba\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-2.0.3\src\builder.rs C:\Users\sumba\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-2.0.3\src\connect.rs C:\Users\sumba\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-2.0.3\src\error.rs C:\Users\sumba\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-2.0.3\src\frozen.rs C:\Users\sumba\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-2.0.3\src\request.rs C:\Users\sumba\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-2.0.3\src\response.rs C:\Users\sumba\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-2.0.3\src\sender.rs C:\Users\sumba\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-2.0.3\src\test.rs C:\Users\sumba\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-2.0.3\src\ws.rs
+
+c:\Users\sumba\OneDrive\Documents\Rust Projects\minimal-api\target\rls\debug\deps\awc-3b609194ab2b78cc.d: C:\Users\sumba\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-2.0.3\src/lib.rs C:\Users\sumba\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-2.0.3\src\builder.rs C:\Users\sumba\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-2.0.3\src\connect.rs C:\Users\sumba\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-2.0.3\src\error.rs C:\Users\sumba\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-2.0.3\src\frozen.rs C:\Users\sumba\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-2.0.3\src\request.rs C:\Users\sumba\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-2.0.3\src\response.rs C:\Users\sumba\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-2.0.3\src\sender.rs C:\Users\sumba\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-2.0.3\src\test.rs C:\Users\sumba\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-2.0.3\src\ws.rs
+
+C:\Users\sumba\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-2.0.3\src/lib.rs:
+C:\Users\sumba\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-2.0.3\src\builder.rs:
+C:\Users\sumba\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-2.0.3\src\connect.rs:
+C:\Users\sumba\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-2.0.3\src\error.rs:
+C:\Users\sumba\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-2.0.3\src\frozen.rs:
+C:\Users\sumba\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-2.0.3\src\request.rs:
+C:\Users\sumba\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-2.0.3\src\response.rs:
+C:\Users\sumba\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-2.0.3\src\sender.rs:
+C:\Users\sumba\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-2.0.3\src\test.rs:
+C:\Users\sumba\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-2.0.3\src\ws.rs:

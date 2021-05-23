@@ -1,0 +1,13 @@
+c:\Users\sumba\OneDrive\Documents\Rust Projects\minimal-api\target\rls\debug\deps\tracing-bdd3cd8aab01e160.rmeta: C:\Users\sumba\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.26\src\lib.rs C:\Users\sumba\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.26\src\macros.rs C:\Users\sumba\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.26\src\dispatcher.rs C:\Users\sumba\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.26\src\field.rs C:\Users\sumba\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.26\src\instrument.rs C:\Users\sumba\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.26\src\level_filters.rs C:\Users\sumba\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.26\src\span.rs C:\Users\sumba\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.26\src\stdlib.rs C:\Users\sumba\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.26\src\subscriber.rs
+
+c:\Users\sumba\OneDrive\Documents\Rust Projects\minimal-api\target\rls\debug\deps\tracing-bdd3cd8aab01e160.d: C:\Users\sumba\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.26\src\lib.rs C:\Users\sumba\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.26\src\macros.rs C:\Users\sumba\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.26\src\dispatcher.rs C:\Users\sumba\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.26\src\field.rs C:\Users\sumba\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.26\src\instrument.rs C:\Users\sumba\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.26\src\level_filters.rs C:\Users\sumba\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.26\src\span.rs C:\Users\sumba\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.26\src\stdlib.rs C:\Users\sumba\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.26\src\subscriber.rs
+
+C:\Users\sumba\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.26\src\lib.rs:
+C:\Users\sumba\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.26\src\macros.rs:
+C:\Users\sumba\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.26\src\dispatcher.rs:
+C:\Users\sumba\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.26\src\field.rs:
+C:\Users\sumba\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.26\src\instrument.rs:
+C:\Users\sumba\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.26\src\level_filters.rs:
+C:\Users\sumba\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.26\src\span.rs:
+C:\Users\sumba\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.26\src\stdlib.rs:
+C:\Users\sumba\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.26\src\subscriber.rs:
